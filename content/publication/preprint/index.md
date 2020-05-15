@@ -24,10 +24,11 @@ abstract: "Mobile manipulators consist of a mobile platform equipped with one or
 summary: "We developed an algorithm framework for mobile manipulator ball catching, which includes a bi-level motion optimization algorithm and a learning-based controller. It achieves a success rate of 85.33%, setting a new state of the art."
 
 tags:
-- mobile manipulator
-- motion planning
-- inverse dynamics learning
-- learning-based control
+- Mobile Manipulator
+- Motion Planning
+- Inverse Dynamics Learning
+- Learning-based Control
+- Deep Learning
 featured: false
 
 links:
