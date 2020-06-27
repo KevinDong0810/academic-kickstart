@@ -18,18 +18,15 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Reinforcement Learning"
-  description = "70%"
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "70%"  
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "c++/python"
-  description = "65%" 
+  name = "c++/python" 
  
 +++
