@@ -12,11 +12,11 @@ publishDate: "2020-05-12T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "the IEEE/RSJ International Conferenceon Intelligent Robots and Systems"
+publication_short: "IROS"
 
 abstract: "Mobile manipulators consist of a mobile platform equipped with one or more robot arms and are of interest for a wide array of challenging tasks because of their extended workspace and dexterity. Typically, mobile manipulators are deployed in slow-motion collaborative robot scenarios. In this paper, we consider scenarios where accurate high-speed motions are required. We introduce a framework for this regime of tasks including two main components: (i) a bi-level motion optimization algorithm for real-time trajectory generation, which relies on Sequential Quadratic Programming (SQP) and Quadratic Programming (QP), respectively; and (ii) a learning-based controller optimized for precise tracking of high-speed motions via a learned inverse dynamics model. We evaluate our framework with a mobile manipulator platform through numerous high-speed ball catching experiments, where we show a success rate of 85.33%. To the best of our knowledge, this success rate exceeds the reported performance of existing related systems and sets a new state of the art."
 
